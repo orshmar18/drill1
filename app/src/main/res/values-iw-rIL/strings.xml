@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Drill1</string>
+    <string name="last_name_hint">אנא הכנס את שם המשפחה שלך</string>
+    <string name="first_name_hint">אנא הכנס את שמך הפרטי</string>
+    <string name="finish_btn">לחץ לסיום</string>
+</resources>
